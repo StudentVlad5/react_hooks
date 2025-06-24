@@ -1,5 +1,4 @@
 import { useState, memo, useCallback} from "react";
-// import axios from "axios";
 import "./App.css";
 
 const ExpensiveComponent = memo(({ calculate }) => {
