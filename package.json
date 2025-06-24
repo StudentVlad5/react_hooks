@@ -1,8 +1,8 @@
 {
-  "name": "taildog",
+  "name": "react_hooks",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://studentvlad5.github.io/taildog/",
+  "homepage": "https://studentvlad5.github.io/react_hooks/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
